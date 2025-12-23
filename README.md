@@ -65,7 +65,7 @@ Final evaluation is performed on unseen test data. The two-stage approach reduce
 ## How to Run
 
 1. Clone the repository  
-   git clone https://github.com/your-username/credit-card-fraud-detection.git  
+   git clone https://github.com/gurnoor-singh-bagga/credit-card-fraud-detection.git  
    cd credit-card-fraud-detection  
 
 2. Create and activate a virtual environment (Python 3.11 recommended)  
